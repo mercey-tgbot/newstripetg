@@ -1,0 +1,2 @@
+telepot==12.7
+stripe==2.48.0
