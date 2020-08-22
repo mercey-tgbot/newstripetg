@@ -1,4 +1,4 @@
 {
-"bottoken": "1073212465:AAEPgR1koz3100ls6rExEjO_NnfwWSBVoRI",
-"stripekey": "a"
+"bottoken": "1320959719:AAE13bAv5qEffDJVMTjw0pLKGUlLVRq59xw",
+"stripekey": "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"
 }
